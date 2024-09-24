@@ -18,18 +18,18 @@
 
 ## Шаги:
 
-1. Установить программный пакет swirl
+### 1. Установить программный пакет swirl
 
 ```{r}
 install.packages("swirl")
 ```
-2. Запустить задание с помощью swirl::swirl()
+### 2. Запустить задание с помощью swirl::swirl()
 
 ```{r}
 swirl::swirl()
 ```
 
-3. Выполнение basic Building Blocks
+### 3. Выполнение basic Building Blocks
 
 ```{r}
 5+7
@@ -82,7 +82,7 @@ z * 2 + 1000
 ```{r}
 my_div
 ```
-4.Выполнение Workspace and Files
+### 4.Выполнение Workspace and Files
 
 ```{r}
 getwd()
@@ -147,7 +147,7 @@ dir.create(file.path('testdir2', 'testdir3'), recursive = TRUE)
 ```{r}
 setwd(old.dir)
 ```
-5. Выполнение Sequences of Numbers
+### 5. Выполнение Sequences of Numbers
 ```{r}
 1:20
 ```
@@ -191,7 +191,7 @@ rep(0, times = 40)
 rep(c(0, 1, 2), times = 10)
 ```
 
-6. Выполнение Vectors
+### 6. Выполнение Vectors
 
 ```{r}
 rep(c(0, 1, 2), each = 10)
@@ -235,7 +235,7 @@ paste("Hello", "world!", sep = " ")
 ```{r}
 paste(1:3, c("X", "Y", "Z"), sep = "")
 ```
-7. Выполнение Missing Values
+### 7. Выполнение Missing Values
 
 ```{r}
 x <- c(44, NA, 5, NA)
