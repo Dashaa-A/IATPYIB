@@ -1,11 +1,3 @@
----
-title: "Afanasova_Dasha_BISO-02-21"
- format:
-    md:
-      output-file: README.md
-author: "Afanasova_Dasha"
----
-
 # Введение в R
 
 ## Цель работы
