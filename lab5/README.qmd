@@ -1,9 +1,10 @@
 ---
-title: "5"
-format: html
-editor: visual
+title: "Беспроводные сети"
+author: "afanasova.d.e@yandex.ru"
+format: 
+  md:
+    output-file: README.md
 ---
-
 # Исследование информации о состоянии беспроводных сетей
 
 ## Цель работы
