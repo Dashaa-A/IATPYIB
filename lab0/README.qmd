@@ -1,4 +1,12 @@
-# Практика 0
+---
+title: "Разработка отчета в Quarto"
+author: "d.afanasova.d@yandex.ru"
+format: 
+  md:
+    output-file: README.md
+---
+
+# Подготовка воспроизводимых отчетов
 
 ## Цель работы
 
