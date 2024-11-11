@@ -1,6 +1,6 @@
 ---
 title: "Беспроводные сети"
-author: "afanasova.d.e@yandex.ru"
+author: "d.afanasova.d@yandex.ru"
 format: 
   md:
     output-file: README.md
