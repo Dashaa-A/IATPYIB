@@ -1,9 +1,9 @@
 ---
-title: "Afanasova_Dasha_BISO-02-21"
- format:
-    md:
-      output-file: README.md
-author: "Afanasova_Dasha"
+title: "Работа с языком программирования R"
+author: "d.afanasova.d@yandex.ru"
+format: 
+  md:
+    output-file: README.md
 ---
 
 # Введение в R
