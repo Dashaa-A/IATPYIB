@@ -1,16 +1,3 @@
----
-title: "4"
-format: html
-editor: visual
----
-
----
-title: '4'
-author: "Afanasova_Dasha"
-date: "2024-11-02"
-output: html_document
----
-
 # Цель работы
 
 1.  Изучить возможности технологии yandex Query для анализа структурированных наборов данных
