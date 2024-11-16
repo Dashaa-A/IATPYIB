@@ -1,3 +1,11 @@
+---
+title: "Технология Yandex Query"
+author: "d.afanasova.d@yandex.ru"
+format: 
+  md:
+    output-file: README.md
+---
+
 # Цель работы
 
 1.  Изучить возможности технологии yandex Query для анализа структурированных наборов данных
