@@ -1,11 +1,3 @@
----
-title: "Технология Yandex Datalens"
-author: "d.afanasova.d@yandex.ru"
-format: 
-  md:
-    output-file: README.md
----
-
 # Использование технологии Yandex Query DataLens для анализа данных сетевой активности
 
 ## Цель работы
