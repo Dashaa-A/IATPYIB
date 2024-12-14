@@ -1,6 +1,6 @@
 ---
 title: "Практика библиотеки arrow"
-author: "lieless@yandex.ru"
+author: "d.afanasova.d@yandex.ru"
 format: 
   md:
     output-file: README.md
@@ -16,13 +16,6 @@ format:
 3. Получить навыки анализа метаинфомации о сетевом трафике
 4. Получить навыки применения облачных технологий хранения, подготовки и
 анализа данных: Yandex Object Storage, Rstudio Server.
-
-## Исходные данные
-
-1.  Программное обеспечение MacOS 14.4.1 Sonoma
-2.  Yandex Object Storage
-3.  Библиотека Apache Arrow
-4.  Rstudio Desktop
 
 ## План
 
