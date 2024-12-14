@@ -1,11 +1,3 @@
----
-title: "Практика библиотеки arrow"
-author: "d.afanasova.d@yandex.ru"
-format: 
-  md:
-    output-file: README.qmd
----
-
 # Анализ данных сетевого трафика при помощи библиотеки Arrow
 
 ## Цель работы
