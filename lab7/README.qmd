@@ -1,6 +1,6 @@
 ---
 title: "Практика библиотеки arrow"
-author: "lieless@yandex.ru"
+author: "d.afanasova.d@yandex.ru"
 format: 
   md:
     output-file: README.md
